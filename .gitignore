@@ -165,3 +165,6 @@ activate
 
 # VScode
 .vscode/
+
+# Idea
+.idea/
